@@ -383,22 +383,7 @@ After completing this practical, students will understand:
 * Protected REST APIs
 * API testing using Postman
 
----
 
-# Viva Questions
-
-1. What is JWT?
-2. Why do we hash passwords?
-3. What is bcryptjs?
-4. What is the purpose of dotenv?
-5. What is middleware in Express.js?
-6. What is the difference between authentication and authorization?
-7. Where is the JWT token stored?
-8. What happens if a JWT token expires?
-9. Why should passwords never be stored in plain text?
-10. Why do we use the Authorization header?
-
----
 
 # Conclusion
 
